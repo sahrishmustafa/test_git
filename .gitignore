@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+venv/
+.venv/
+.env
+
+# Data (DVC will track these, Git should ignore them)
+/data_raw.csv

@@ -1,0 +1,3 @@
+wget
+dvc
+# dvc-s3  # (Optional: install this if you plan to use AWS S3 as storage)
